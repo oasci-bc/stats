@@ -3,8 +3,9 @@ nav:
     - 0.0 Introduction: intro
     - 1.0 Probability: prob
     - 2.0 Distributions: dist
-    - 3.0 Testing: testing
-    - 4.0 Nonparametric: nonpara
-    - 5.0 Bayesian: bayes
-    - 6.0 Regression: regression
+    - 3.0 Estimation: estimate
+    - 4.0 Testing: testing
+    - 5.0 Nonparametric: nonpara
+    - 6.0 Bayesian: bayes
+    - 7.0 Regression: regression
     - Appendices: appendices

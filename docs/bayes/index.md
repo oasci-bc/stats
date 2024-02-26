@@ -1,1 +1,1 @@
-# 5.0 Bayesian
+# 6.0 Bayesian

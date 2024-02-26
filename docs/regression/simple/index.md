@@ -1,1 +1,1 @@
-# 6.1 Simple linear regression
+# 7.1 Simple linear regression
