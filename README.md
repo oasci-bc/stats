@@ -27,6 +27,10 @@ After releasing a new version, you need to push and include all tags.
 git push --follow-tags
 ```
 
+## Notice
+
+All notices of attribution and license terms can be found in [NOTICE.md](https://gitlab.com/oasci/breadcrumbs/stats/-/blob/main/NOTICE.md).
+
 ## License
 
 Code contained in this project is released under the [MIT License](https://spdx.org/licenses/MIT.html) as specified in [`LICENSE_CODE`](https://gitlab.com/oasci/breadcrumbs/stats/-/blob/main/LICENSE_CODE.md).
