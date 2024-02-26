@@ -1,0 +1,4 @@
+nav:
+    - 2.1 Discrete distributions: index.md
+    - 2.1.1 Discrete Random Variables: random-var
+    - 2.1.2 Probability mass functions: prob-mass
